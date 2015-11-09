@@ -1,0 +1,3 @@
+[submodule "ishida-apps"]
+	path = ishida-apps
+	url = https://github.com/dgorohov/ishida-apps.git
